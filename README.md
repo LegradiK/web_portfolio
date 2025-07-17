@@ -3,17 +3,16 @@
 This project serves as the home for my personal portfolio website, created as part of Day 83 – Assignment 2 of the 100 Days of Code challenge.
 
 ## 🌐 Live Website
-You can view the live portfolio here:
-👉 kaholegradi.my.canva.site
+You can view the live portfolio here: [kaholegradi.my.canva.site](https://kaholegradi.my.canva.site/)
 
 ## 📌 About
 The portfolio was designed using Canva, showcasing:
 
--A brief introduction about me
+- A brief introduction about me
 
--My key projects and skills
+- My key projects and skills
 
--Contact information
+- Contact information
 
 The goal of this project was to build and publish a professional personal website using a visual design tool.
 
